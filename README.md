@@ -1,13 +1,8 @@
 # Fingerprint-Detection-Image-project
 
-<html>
-    
-<body>
-    <p{ text-align: justify; }>
-        The project focuses on fingerprint matching using image processing techniques like Gaussian filtering, adaptive thresholding, and morphological operations. Minutiae points (ridge endings and bifurcations) are extracted and matched using Euclidean distance to determine fingerprint similarity. The system improves accuracy by considering image rotations and calculates a match percentage for verification.
-
-</body>
-</html>
+<p style="text-align: justify;">
+    The project focuses on fingerprint matching using image processing techniques like Gaussian filtering, adaptive thresholding, and morphological operations. Minutiae points (ridge endings and bifurcations) are extracted and matched using Euclidean distance to determine fingerprint similarity. The system improves accuracy by considering image rotations and calculates a match percentage for verification.
+</p>
 
 1. The project involves key steps: image acquisition, preprocessing, feature extraction, and matching.
 2. Preprocessing includes image rotation, Gaussian filtering, adaptive thresholding, and morphological operations.
