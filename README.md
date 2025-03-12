@@ -14,4 +14,4 @@
 8. The system accounts for image rotations to improve accuracy and robustness.
 9. The approach demonstrates the importance of preprocessing and feature extraction in fingerprint recognition for security applications.
 
-[Download PDF](https://github.com/Jesiara/Fingerprint-Detection-Image-project/blob/main/image_project_report.pdf)
+[Download PDF- Image_Project_Report.pdf](https://github.com/Jesiara/Fingerprint-Detection-Image-project/blob/main/image_project_report.pdf)
