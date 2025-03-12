@@ -6,7 +6,6 @@
     <p{ text-align: justify; }>
         The project focuses on fingerprint matching using image processing techniques like Gaussian filtering, adaptive thresholding, and morphological operations. Minutiae points (ridge endings and bifurcations) are extracted and matched using Euclidean distance to determine fingerprint similarity. The system improves accuracy by considering image rotations and calculates a match percentage for verification.
 
-    </p>
 </body>
 </html>
 
