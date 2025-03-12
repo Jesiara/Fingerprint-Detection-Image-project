@@ -13,3 +13,5 @@
 7. The matching percentage is calculated based on the number of matched minutiae points.
 8. The system accounts for image rotations to improve accuracy and robustness.
 9. The approach demonstrates the importance of preprocessing and feature extraction in fingerprint recognition for security applications.
+
+[Download PDF](https://github.com/Jesiara/Fingerprint-Detection-Image-project/blob/main/image_project_report.pdf)
